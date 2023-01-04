@@ -1,0 +1,10 @@
+CAST
+CAT
+CATS
+CAR 
+DOG 
+DOGS 
+DODGE 
+cat 
+cats
+caca
